@@ -1,5 +1,5 @@
  class demo{
-
+ 
     void animal()
     {
         System.out.println("i am a dog");
